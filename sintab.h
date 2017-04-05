@@ -1,1 +1,1 @@
-int	sin_table[256];
+extern int	sin_table[256];
