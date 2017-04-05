@@ -64,4 +64,4 @@ tb_irigb.valgrind: tb_irigb
 # Maintenance
 
 clean:
-	rm -f *~ sine sinetest irigb *.log *.splint *.gcda *.gcno *.gcov *.valgrind
+	rm -f *~ sine sinetest irigb irigbcap tb_fft tb_time tb_irigb *.log *.splint *.gcda *.gcno *.gcov *.valgrind
